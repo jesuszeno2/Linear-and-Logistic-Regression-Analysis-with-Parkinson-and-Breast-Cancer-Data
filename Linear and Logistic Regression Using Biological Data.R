@@ -1,4 +1,4 @@
-# Jesus Zeno Assignment 2
+# Jesus Zeno
 
 # Part 1 Linear Regression Using Parkinson's data
 
