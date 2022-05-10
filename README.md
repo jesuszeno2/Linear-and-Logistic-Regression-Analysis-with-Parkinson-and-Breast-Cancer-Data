@@ -17,3 +17,5 @@
 •	Make a dominance analysis about the ten measurements in the logistic regression
 
 This was done as an assignment using publicly available data
+
+For an a deeper dive into the breast cancer data set for the purposes of a confusion matrix, please refer to [this repository](https://github.com/jesuszeno2/Confusion-Matrix). 
